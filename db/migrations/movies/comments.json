@@ -1,0 +1,30 @@
+[
+  {
+    "uuid": "8b899450-304b-11e8-a36f-f1528acad04f",
+    "movieUuid": "fef86f40-303e-11e8-8a8b-9decff9c5795",
+    "text": "Wow that's really nice movie",
+    "updatedAt": "2018-03-25T16:42:45.654Z",
+    "createdAt": "2018-03-25T16:42:45.654Z"
+  },
+  {
+    "uuid": "e36975a0-304b-11e8-89a0-119d541afb2f",
+    "movieUuid": "fef86f40-303e-11e8-8a8b-9decff9c5795",
+    "text": "I've fallen in love with that movie",
+    "updatedAt": "2018-03-25T16:45:13.082Z",
+    "createdAt": "2018-03-25T16:45:13.082Z"
+  },
+  {
+    "uuid": "14325210-304c-11e8-89f8-052b658e05f0",
+    "movieUuid": "5976c930-303f-11e8-ab01-33086fc627a7",
+    "text": "That is the movie I was waiting for :D",
+    "updatedAt": "2018-03-25T16:46:34.929Z",
+    "createdAt": "2018-03-25T16:46:34.929Z"
+  },
+  {
+    "uuid": "3c3627f0-304c-11e8-ad45-c7eee09d43fe",
+    "movieUuid": "2c188f00-303f-11e8-9ff7-fd333329ae16",
+    "text": "What's a romantic story <3",
+    "updatedAt": "2018-03-25T16:47:42.063Z",
+    "createdAt": "2018-03-25T16:47:42.063Z"
+  }
+]

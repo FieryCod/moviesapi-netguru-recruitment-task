@@ -1,0 +1,16 @@
+.git
+*Dockerfile*
+*docker-compose*
+node_modules
+npm-debug.log
+.dir-locals.el
+.jsconfig
+eslint*
+README.md
+LICENSE
+api/mocks
+yarn-error.log
+docs
+tests
+.deploy
+.nuxt

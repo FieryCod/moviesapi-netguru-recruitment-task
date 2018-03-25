@@ -1,0 +1,303 @@
+[
+  {
+      "uuid": "fef86f40-303e-11e8-8a8b-9decff9c5795",
+      "title": "Batman",
+      "year": 1989,
+      "rated": "PG-13",
+      "released": "1989-06-23T00:00:00.000Z",
+      "runtime": "126 min",
+      "genre": [
+          "Action",
+          "Adventure"
+      ],
+      "director": "Tim Burton",
+      "writer": "Bob Kane (Batman characters), Sam Hamm (story), Sam Hamm (screenplay), Warren Skaaren (screenplay)",
+      "actors": [
+          "Michael Keaton",
+          "Jack Nicholson",
+          "Kim Basinger",
+          "Robert Wuhl"
+      ],
+      "plot": "Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.",
+      "language": [
+          "English",
+          "French",
+          "Spanish"
+      ],
+      "country": "USA, UK",
+      "awards": "Won 1 Oscar. Another 8 wins & 26 nominations.",
+      "poster": "https://ia.media-imdb.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+      "ratings": [
+          {
+              "source": "Internet Movie Database",
+              "value": "7.6/10"
+          },
+          {
+              "source": "Rotten Tomatoes",
+              "value": "72%"
+          },
+          {
+              "source": "Metacritic",
+              "value": "69/100"
+          }
+      ],
+      "metascore": "69",
+      "imdbRating": "7.6",
+      "imdbVotes": "296,001",
+      "imdbId": "tt0096895",
+      "type": "movie",
+      "dvd": "25 Mar 1997",
+      "boxOffice": "N/A",
+      "production": "Warner Bros. Pictures",
+      "website": "N/A",
+      "response": true,
+      "updatedAt": "2018-03-24T20:19:28.107Z",
+      "createdAt": "2018-03-24T20:19:28.107Z"
+  },
+  {
+      "uuid": "1dcd8040-303f-11e8-84d8-fd420d205846",
+      "title": "Galaxy",
+      "year": 1986,
+      "rated": "N/A",
+      "released": "1986-01-01T00:00:00.000Z",
+      "runtime": "91 min",
+      "genre": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+      ],
+      "director": "Brett Piper",
+      "writer": "Brett Piper",
+      "actors": [
+          "Matt Mitler",
+          "Denise Coward",
+          "Joe Gentissi",
+          "Bill MacGlaughlin"
+      ],
+      "plot": "After hijacking a space shuttle, a spy finds that the controls are malfunctioning and sees alien battleships approaching Earth. Many years later, when the arc of his flight path returns to earth, he finds the planet under alien domination.",
+      "language": [
+          "English",
+          "French"
+      ],
+      "country": "USA",
+      "awards": "N/A",
+      "poster": "https://ia.media-imdb.com/images/M/MV5BOTBhMGNhMTUtNTUwNS00NmYwLWI1ZmEtZWVlMTU4NDE3ZTFhXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SX300.jpg",
+      "ratings": [
+          {
+              "source": "Internet Movie Database",
+              "value": "5.1/10"
+          }
+      ],
+      "metascore": "N/A",
+      "imdbRating": "5.1",
+      "imdbVotes": "90",
+      "imdbId": "tt0404977",
+      "type": "movie",
+      "dvd": "N/A",
+      "boxOffice": "N/A",
+      "production": "N/A",
+      "website": "N/A",
+      "response": true,
+      "updatedAt": "2018-03-24T20:19:53.667Z",
+      "createdAt": "2018-03-24T20:19:53.667Z"
+  },
+  {
+      "uuid": "2c188f00-303f-11e8-9ff7-fd333329ae16",
+      "title": "Pitbull. Ostatni pies",
+      "year": 2018,
+      "rated": "N/A",
+      "released": "2018-03-15T00:00:00.000Z",
+      "runtime": "N/A",
+      "genre": [
+          "Action",
+          "Crime",
+          "Drama"
+      ],
+      "director": "Wladyslaw Pasikowski",
+      "writer": "Wladyslaw Pasikowski",
+      "actors": [
+          "Marcin Dorocinski",
+          "Zbigniew Zamachowski",
+          "Cezary Pazura",
+          "Mateusz Banasiuk"
+      ],
+      "plot": "A policeman gets killed and the short-staffed police chief sends for a few experienced officers to support him in his fight with organized crime. Meanwhile, a conflict between local gangster groups escalates.",
+      "language": [
+          "Polish"
+      ],
+      "country": "Poland",
+      "awards": "N/A",
+      "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTExOGY0NjYtZGJjMC00MTNhLWI4NDItNTBkZDRlZmJkYjBhXkEyXkFqcGdeQXVyMjMwOTA0Ng@@._V1_SX300.jpg",
+      "ratings": [],
+      "metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbId": "tt7874378",
+      "type": "movie",
+      "dvd": "N/A",
+      "boxOffice": "N/A",
+      "production": "N/A",
+      "website": "N/A",
+      "response": true,
+      "updatedAt": "2018-03-24T20:20:12.412Z",
+      "createdAt": "2018-03-24T20:20:12.412Z"
+  },
+  {
+    "uuid": "37c43ac0-303f-11e8-9d67-97825c1fe441",
+    "title": "Black Panther",
+    "year": 2018,
+    "rated": "PG-13",
+    "released": "2018-02-16T00:00:00.000Z",
+    "runtime": "134 min",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "director": "Ryan Coogler",
+    "writer": "Ryan Coogler, Joe Robert Cole, Stan Lee (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)",
+    "actors": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Danai Gurira"
+    ],
+    "plot": "After the events of Captain America: Civil War, King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakanadan special forces, to prevent Wakanda from being dragged into a world war.",
+    "language": [
+        "Swahili",
+        "Nama",
+        "English",
+        "Xhosa",
+        "Korean"
+    ],
+    "country": "USA",
+    "awards": "14 nominations.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
+    "ratings": [
+        {
+            "source": "Internet Movie Database",
+            "value": "7.8/10"
+        },
+        {
+            "source": "Rotten Tomatoes",
+            "value": "97%"
+        },
+        {
+            "source": "Metacritic",
+            "value": "88/100"
+        }
+    ],
+    "metascore": "88",
+    "imdbRating": "7.8",
+    "imdbVotes": "201,861",
+    "imdbId": "tt1825683",
+    "type": "movie",
+    "dvd": "N/A",
+    "boxOffice": "$501,105,037",
+    "production": "Marvel Studios",
+    "website": "https://www.facebook.com/BlackPantherMovie/",
+    "response": true,
+    "updatedAt": "2018-03-24T20:20:31.083Z",
+    "createdAt": "2018-03-24T20:20:31.083Z"
+  },
+  {
+    "uuid": "4d2b8210-303f-11e8-ab01-33086fc627a7",
+    "title": "Love, Simon",
+    "year": 2018,
+    "rated": "PG-13",
+    "released": "2018-03-16T00:00:00.000Z",
+    "runtime": "109 min",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "director": "Greg Berlanti",
+    "writer": "Elizabeth Berger (screenplay by), Isaac Aptaker (screenplay by), Becky Albertalli (based upon the novel \"Simon vs. the Homo Sapiens Agenda\" by)",
+    "actors": [
+        "Nick Robinson",
+        "Jennifer Garner",
+        "Josh Duhamel",
+        "Katherine Langford"
+    ],
+    "plot": "Simon Spier keeps a huge secret from his family, his friends, and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity.",
+    "language": [
+        "English"
+    ],
+    "country": "USA",
+    "awards": "N/A",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZTVkOWJkOTYtM2FlZS00YTBlLWE2YTYtODEyZWJjMTZkM2IzXkEyXkFqcGdeQXVyMTQ4NzkzOTA@._V1_SX300.jpg",
+    "ratings": [
+        {
+            "source": "Internet Movie Database",
+            "value": "7.4/10"
+        },
+        {
+            "source": "Rotten Tomatoes",
+            "value": "92%"
+        },
+        {
+            "source": "Metacritic",
+            "value": "70/100"
+        }
+    ],
+    "metascore": "70",
+    "imdbRating": "7.4",
+    "imdbVotes": "1,606",
+    "imdbId": "tt5164432",
+    "type": "movie",
+    "dvd": "N/A",
+    "boxOffice": "N/A",
+    "production": "20th Century Fox",
+    "website": "http://LoveSimonMovie.com",
+    "response": true,
+    "updatedAt": "2018-03-24T20:20:54.675Z",
+    "createdAt": "2018-03-24T20:20:54.675Z"
+  },
+  {
+    "uuid": "5976c930-303f-11e8-ab01-33086fc627a7",
+    "title": "Raid",
+    "year": 2003,
+    "rated": "N/A",
+    "released": "2003-01-31T00:00:00.000Z",
+    "runtime": "128 min",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "director": "Tapio Piirainen",
+    "writer": "Harri Nykänen, Tapio Piirainen",
+    "actors": [
+        "Kai Lehtinen",
+        "Oiva Lohtander",
+        "Mari Rantasila",
+        "Pekka Huotari"
+    ],
+    "plot": "A hard-nosed hit man Raid returns to Finland and is unofficially asked to investigate the arson case involving his old flame Tarja.",
+    "language": [
+        "Finnish"
+    ],
+    "country": "Finland, Sweden, Germany",
+    "awards": "4 wins.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTg3MTQ1MDI5NF5BMl5BanBnXkFtZTcwNjkyNDMzMQ@@._V1_SX300.jpg",
+    "ratings": [
+        {
+            "source": "Internet Movie Database",
+            "value": "7.2/10"
+        }
+    ],
+    "metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "1,868",
+    "imdbId": "tt0330802",
+    "type": "movie",
+    "dvd": "N/A",
+    "boxOffice": "N/A",
+    "production": "N/A",
+    "website": "N/A",
+    "response": true,
+    "updatedAt": "2018-03-24T20:21:12.754Z",
+    "createdAt": "2018-03-24T20:21:12.754Z"
+  }
+]

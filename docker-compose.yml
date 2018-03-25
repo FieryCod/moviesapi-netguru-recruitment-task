@@ -1,0 +1,24 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    command: ['/bin/sh', '-c', 'sleep 4 && yarn dev']
+    volumes:
+      - .:/usr/src/app/
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+    links:
+      - postgres
+    env_file:
+      - .env
+
+  postgres:
+    image: postgres:9.6.2-alpine
+    restart: always
+    ports:
+        - "5432:5432"
+    env_file:
+      - .env

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "allowSyntheticDefaultImports": true
+  },
+  "lib": [
+    "es2015",
+    "dom"
+  ],
+  "typeAcquisition": {
+    "include": [
+      "lodash",
+      "axios",
+      "sequelize",
+      "should",
+      "rewire"
+    ]
+  }
+}
