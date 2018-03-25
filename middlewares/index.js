@@ -1,6 +1,5 @@
 module.exports = [
-  require('./swagger'),
   require('./helmet'),
-  require('./cache'),
+  require('./swagger'),
   require('./error-handler')
 ]

@@ -10,6 +10,7 @@ describe('controllers: commentsController', function () {
         .expect(200)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.count.should.eql(2)
           res.body.rows.length.should.eql(2)
           done()
@@ -22,6 +23,7 @@ describe('controllers: commentsController', function () {
         .expect(200)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.count.should.eql(4)
           res.body.rows.length.should.eql(4)
           done()
@@ -34,6 +36,7 @@ describe('controllers: commentsController', function () {
         .expect(200)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.count.should.eql(4)
           res.body.rows.length.should.eql(2)
           done()
@@ -46,6 +49,7 @@ describe('controllers: commentsController', function () {
         .expect(200)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.count.should.eql(4)
           res.body.rows.length.should.eql(2)
           done()
@@ -58,6 +62,7 @@ describe('controllers: commentsController', function () {
         .expect(200)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.count.should.eql(4)
           res.body.rows.length.should.eql(0)
           done()
@@ -74,9 +79,10 @@ describe('controllers: commentsController', function () {
           text: 'That movie is really nice'
         })
         .set('Accept', /application\/json/)
-        .expect(200)
+        .expect(201)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.text.should.eql('That movie is really nice')
           done()
         })

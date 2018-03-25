@@ -35,7 +35,7 @@ function postComment (req, res, next) {
 
   Comment
     .create(_.assign({ uuid: uuidv1() }, comment))
-    .then(savedComment => res.json(savedComment))
+    .then(savedComment => res.status(201).json(savedComment))
     .catch(err => commonHelper.handleDbError(err, next))
 }
 

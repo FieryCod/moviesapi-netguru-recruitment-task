@@ -10,6 +10,7 @@ describe('controllers: moviesController', function () {
         .expect(200)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.count.should.eql(6)
           res.body.rows.length.should.eql(6)
           done()
@@ -22,6 +23,7 @@ describe('controllers: moviesController', function () {
         .expect(200)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.count.should.eql(6)
           res.body.rows.length.should.eql(2)
           done()
@@ -34,6 +36,7 @@ describe('controllers: moviesController', function () {
         .expect(200)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.count.should.eql(6)
           res.body.rows.length.should.eql(4)
           done()
@@ -46,6 +49,7 @@ describe('controllers: moviesController', function () {
         .expect(200)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.count.should.eql(6)
           res.body.rows.length.should.eql(2)
           res.body.rows[0].title.should.eql('Love, Simon')
@@ -61,9 +65,10 @@ describe('controllers: moviesController', function () {
         .post('/movies')
         .send({ title: 'Robin Hood' })
         .set('Accept', /application\/json/)
-        .expect(200)
+        .expect(201)
         .expect('Content-Type', /json/)
         .end(function (err, res) {
+          should.not.exist(err);
           res.body.title.should.eql('Robin Hood')
           done()
         })

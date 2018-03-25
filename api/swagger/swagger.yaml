@@ -88,7 +88,7 @@ paths:
                 pattern: "(.+){10,}"
 
       responses:
-        "200":
+        "201":
           description: "Success! Comment has been posted"
           schema:
             $ref: "#/definitions/Comment"
@@ -161,7 +161,7 @@ paths:
                 example: "Guardians of the Galaxy Vol. 2"
 
       responses:
-        "200":
+        "201":
           description: "Success! Here is your Movie"
           schema:
             $ref: "#/definitions/Movie"

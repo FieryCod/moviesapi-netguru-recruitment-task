@@ -26,7 +26,6 @@ check my work faster :) Feel free to use it.
 - Docker - because it's speeds up the development time
 - Postgres - because it's the great DB which allows json, and arrays in the table
 - Swagger - because I did use it couple of times
-- ApiCache - because I wanted to have a cache, but did not want to configure varnish
 - Eslint - because I love to code with style
 - Nodemon - because it's perfect demon for smooth reloading
 - Sequelize - because I did not fear to learn it (it's quite nice I must say)

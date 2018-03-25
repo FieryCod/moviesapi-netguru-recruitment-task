@@ -45,7 +45,7 @@ function postMovie (req, res, next) {
 
       Movie
         .create(_.assign({ uuid: uuidv1() }, movie))
-        .then(savedMovie => res.json(savedMovie))
+        .then(savedMovie => res.status(201).json(savedMovie))
         .catch(err => commonHelper.handleDbError(err, next))
     })
 }
