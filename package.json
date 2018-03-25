@@ -2,7 +2,7 @@
   "name": "netguru-recruitment-task",
   "version": "0.0.1",
   "private": true,
-  "description": "New Swagger API Project",
+  "description": "Movie API recruitment task for Netguru",
   "keywords": [],
   "author": "Karol Wojcik",
   "license": "MIT",

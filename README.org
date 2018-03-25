@@ -1,0 +1,33 @@
+* Movies RestApi (Netguru Recruitment Task)
+
+** How to run app?
+
+1. Make sure you got the ~docker~, ~docker-compose~ and ~yarn~ installed
+2. Fill the ~env.example~ with your omdb api key
+3. Run ~yarn~ to install all packages
+4. Run ~docker compose up~ to start the app
+
+** How to test app?
+
+1. Make sure you did ~1,2,3~ from the tutorial "How to run app?"
+2. Run ~yarn localtest~
+
+** Postman collection:
+
+I've prepared the postman collection which will definitely allow you to
+check my work faster :) Feel free to use it.
+
+[[https://documenter.getpostman.com/view/1797713/netguru-recruitment-task/RVtvqssk#c09cfd1b-35b4-d960-4c62-36980e705c65][Postman netguru-recruitment-task collection]]
+
+/Make sure you're running the app locally. If you're not just change the API_URL variable :D/
+
+** What did I use and why
+
+- Docker - because it's speeds up the development time
+- Postgres - because it's the great DB which allows json, and arrays in the table
+- Swagger - because I did use it couple of times
+- ApiCache - because I wanted to have a cache, but did not want to configure varnish
+- Eslint - because I love to code with style
+- Nodemon - because it's perfect demon for smooth reloading
+- Sequelize - because I did not fear to learn it (it's quite nice I must say)
+- Debug - because it's standard to have nice logs

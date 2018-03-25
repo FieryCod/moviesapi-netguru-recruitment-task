@@ -5,8 +5,6 @@ info:
   title: Movies API
   description: "This is a simple REST API for Netguru, created as a recruitment task"
 
-# Host & base path
-host: "localhost:3000"
 basePath: /v1
 
 schemes:
