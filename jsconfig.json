@@ -9,6 +9,7 @@
   ],
   "typeAcquisition": {
     "include": [
+      "apicache",
       "lodash",
       "axios",
       "sequelize",
