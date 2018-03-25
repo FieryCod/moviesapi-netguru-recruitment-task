@@ -31,3 +31,7 @@ check my work faster :) Feel free to use it.
 - Nodemon - because it's perfect demon for smooth reloading
 - Sequelize - because I did not fear to learn it (it's quite nice I must say)
 - Debug - because it's standard to have nice logs
+
+** Working example?
+
+  [[https://api-netguru-recruitment-task.herokuapp.com][Heroku demo]]
