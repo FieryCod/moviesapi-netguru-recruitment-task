@@ -8,7 +8,7 @@ info:
 basePath: /v1
 
 schemes:
-  - http
+  - https
 consumes:
   - application/json
 produces:
